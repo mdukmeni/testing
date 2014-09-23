@@ -9,5 +9,7 @@ namespace Nuget_testing_v1
     public class Class1
     {
 		public void Testing() { }
+
+		public void Testing_build_2() { }
     }
 }
