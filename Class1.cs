@@ -10,6 +10,6 @@ namespace Nuget_testing_v1
     {
 		public void Testing() { }
 
-		public void Testing_build_2() { }
+		public void Testing_build_1() { }
     }
 }
