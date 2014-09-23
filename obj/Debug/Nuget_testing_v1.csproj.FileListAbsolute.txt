@@ -1,0 +1,4 @@
+E:\Nuget_testing\Nuget_testing_v1\Nuget_testing_v1\bin\Debug\Nuget_testing_v1.dll
+E:\Nuget_testing\Nuget_testing_v1\Nuget_testing_v1\bin\Debug\Nuget_testing_v1.pdb
+E:\Nuget_testing\Nuget_testing_v1\Nuget_testing_v1\obj\Debug\Nuget_testing_v1.dll
+E:\Nuget_testing\Nuget_testing_v1\Nuget_testing_v1\obj\Debug\Nuget_testing_v1.pdb
